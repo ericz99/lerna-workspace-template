@@ -7,6 +7,7 @@
     "packages/*"
   ],
   "scripts": {
+    "bootstrap": "lerna exec yarn install",
     "dev": "lerna run --parallel start",
     "build": "lerna run build",
     "test": "lerna run --parallel test",
