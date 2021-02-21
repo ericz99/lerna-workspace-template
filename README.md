@@ -32,6 +32,11 @@ The project now consists of 2 packages.
 -   `yarn new-version` - Only commit conventional commits.
 -   `yarn diff` - Only show differences from previous commits vs now.
 
+## Todo
+
+-   [ ] Add docker support that separate all packages into services
+-   [ ] Add CI/CD tool
+
 ## Current Bug
 
 -   Can't figure out why es6+ babel not working when testing with jest...
