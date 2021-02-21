@@ -32,6 +32,10 @@ The project now consists of 2 packages.
 -   `yarn new-version` - Only commit conventional commits.
 -   `yarn diff` - Only show differences from previous commits vs now.
 
+## Current Bug
+
+-   Can't figure out why es6+ babel not working when testing with jest...
+
 ## Template Info
 
 ### Author
