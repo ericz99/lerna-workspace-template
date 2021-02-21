@@ -32,10 +32,14 @@ The project now consists of 2 packages.
 -   `yarn new-version` - Only commit conventional commits.
 -   `yarn diff` - Only show differences from previous commits vs now.
 
+## Continuous Integration / Continuous Development
+
+Currently this template only support GitHub Action. But, you are free to add other CI/CD tools, like CircleCI, Jenkins, AWS CodePipeline, and etc...
+
 ## Todo
 
 -   [ ] Add docker support that separate all packages into services
--   [ ] Add CI/CD tool
+-   [ ] Add more CI/CD tool (Only support GitHub Action)
 
 ## Current Bug
 
