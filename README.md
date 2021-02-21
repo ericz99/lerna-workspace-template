@@ -8,8 +8,8 @@ The project now consists of 2 packages.
 
 > Of course you can add more packages, feel free to play around with it.
 
-api: boilerplate nodejs express with babel configured for es6+.
-web: create-react-app bootstraped (latest version) + tailwindcss configured
+-   **api**: boilerplate nodejs express with babel configured for es6+.
+-   **web**: create-react-app bootstraped (latest version) + tailwindcss configured
 
 ## Tools that are used
 
