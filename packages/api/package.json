@@ -4,7 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "clean": "rm -rf build && mkdir build",
+    "build-server": "babel ./src --out-dir ./build",
+    "build": "npm run clean && npm run build-server",
     "start": "nodemon --exec babel-node src/index.js",
+    "start-prod": "node ./build/index.js",
     "test": "jest"
   },
   "dependencies": {
