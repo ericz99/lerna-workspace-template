@@ -43,7 +43,7 @@ Currently this template only support GitHub Action. But, you are free to add oth
 
 ## Current Bug
 
--   Can't figure out why es6+ babel not working when testing with jest...
+-   None
 
 ## Template Info
 
