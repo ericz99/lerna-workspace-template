@@ -21,6 +21,7 @@ The project now consists of 2 packages.
 -   [Eslint](https://eslint.org/) - Linting Tool
 -   [Prettier](https://prettier.io/) - Format Code Tool
 -   [Jest](https://jestjs.io/)  -  Unit/Snapshot Testing
+-   [Commitizen](https://commitizen-tools.github.io/commitizen/) - Best commit tool
 
 ## Usage
 
